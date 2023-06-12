@@ -3,9 +3,9 @@ This Java program sorts the pixels of an image based on brightness value by impl
 
 I coded this Java program for my CS102 class as a lab assignment on my second semester in Bilkent University.
 
-### Detailes
+## Detailes
 
-The Original Picture
+#### The Original Picture
 
 <img width="221" alt="ss" src="https://github.com/ph7oeuf/Image-Pixel-Sorter/assets/77412814/2dc38214-7e10-4aa9-a591-2bebde4a1c4c">
 
