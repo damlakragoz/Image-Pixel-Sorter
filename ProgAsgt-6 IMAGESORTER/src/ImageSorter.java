@@ -32,14 +32,12 @@ public class ImageSorter extends JFrame implements ActionListener,KeyListener{
     public static void main(String[] args) throws IOException {
             ImageSorter is = new ImageSorter();
             is.startAnimatedBubbleSort();
+            
     }
 
     ImageSorter() throws IOException {
         this.setTitle("Image Sorter!");
-        //this.loadImage("/Users/damlak/Documents/!CS-102/CS102_LewisLoftusChapterbyChapter/ProgAsgt-6/res/BeFunky-sample.jpg");
-        this.loadImage("/Users/damlak/Documents/!CS-102/CS102_LewisLoftusChapterbyChapter/ProgAsgt-6/res/ss.png");
-        //this.loadImage("/Users/damlak/Documents/!CS-102/CS102_LewisLoftusChapterbyChapter/ProgAsgt-6/res/BeFunky-sample.jpg");
-        //this.loadImage("/Users/damlak/Documents/!CS-102/CS102_LewisLoftusChapterbyChapter/ProgAsgt-6/res/Unknown.jpeg");
+        this.loadImage("res/ss.png");
     }
 
     public void loadImage(String fileName) throws IOException {
