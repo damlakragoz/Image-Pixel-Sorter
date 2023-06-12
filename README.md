@@ -27,7 +27,7 @@ Below is the result when horizontalStep is called periodically, and the picture'
 
 <img width="509" alt="horiz" src="https://github.com/ph7oeuf/Image-Pixel-Sorter/assets/77412814/1f772e7b-8911-4d8b-9699-81e3a377d60d">
 
-#### Additional Feature
+## Additional Feature
 ### Pressing the key...
    'd' changes the diagonalStep methods period dividing it by 2. The sorting animation is now x2 times faster.
             
