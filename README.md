@@ -11,7 +11,7 @@ I coded this Java program for my CS102 class as a lab assignment on my second se
 
 
 startAnimatedBubbleSort method periodically calls the diagonalStep method which calls verticalStep and horizontalStep methods.
-Below is the result of the Animated Bubble Sort. 
+Below is the result of the Animated Bubble Sort (verticalStep then horizontalStep then repeat). 
 
 ![diagonal](https://github.com/ph7oeuf/Image-Pixel-Sorter/assets/77412814/cbe9ba68-b4a7-450b-b255-5a18f8d737f1)
 
