@@ -29,8 +29,8 @@ Below is the result when horizontalStep is called periodically, and the picture'
 
 ## Additional Feature
 ### Pressing the key...
-   'd' changes the diagonalStep methods period dividing it by 2. The sorting animation is now x2 times faster.
+   'd' changes the diagonalStep method calling period dividing it by 2. The sorting animation is now x2 times faster.
             
-   'a' changes the diagonalStep methods period multiplying it by 2. The sorting animation is now x2 times slower.
+   'a' changes the diagonalStep method calling period multiplying it by 2. The sorting animation is now x2 times slower.
           
    'r' pauses and resumes the sort animation.
